@@ -24,6 +24,5 @@ nbdist/
 /nbproject/
 
 .mvn/
-img/
 mvnw
 mvnw.cmd
