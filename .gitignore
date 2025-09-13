@@ -22,3 +22,8 @@ dist/
 nbdist/
 .nb-gradle/
 /nbproject/
+
+.mvn
+img
+mvnw
+mvnw.cmd
