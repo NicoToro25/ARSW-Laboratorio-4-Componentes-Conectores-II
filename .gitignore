@@ -23,7 +23,7 @@ nbdist/
 .nb-gradle/
 /nbproject/
 
-.mvn
-img
+.mvn/
+img/
 mvnw
 mvnw.cmd
