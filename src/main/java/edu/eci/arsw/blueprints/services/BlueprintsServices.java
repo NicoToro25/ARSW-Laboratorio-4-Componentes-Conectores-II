@@ -77,5 +77,5 @@ public class BlueprintsServices {
         }
         return filtered;
     }
-    
+
 }
